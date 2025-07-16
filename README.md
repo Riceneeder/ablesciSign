@@ -284,4 +284,4 @@ https://xizhi.qqoq.net/{key}.send?title=标题&content=内容
 
 感觉不错的请我喝瓶快乐水 😁
 
-![skm](./img/skm.jpg)
+![skm](./img/1.png)
